@@ -29,3 +29,12 @@ body
 {
     color: orange;
 }
+.new
+{
+    margin-bottom: 20px;
+    width: 100%;
+}
+#contactUs iframe
+{
+    width: 100%;
+}
